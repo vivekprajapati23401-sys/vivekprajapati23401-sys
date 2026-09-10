@@ -50,7 +50,6 @@ I am an Artificial Intelligence and Machine Learning undergraduate student passi
 ### 🚀 Highlighted Projects
 
 * **Travixa AI:** An intelligent group travel planner that generates custom itineraries based on user preferences and budget constraints.
-* **CipherVault Pro & PicVault Touch:** Client-side encrypted web applications utilizing Web Crypto API and IndexedDB for highly secure media and credential storage.
 * **AI Interview Coach:** An AI-powered application that parses resumes, formulates targeted interview questions, and provides actionable candidate feedback.
 * **Photo to Excel & Graph Automation:** A workflow automation tool using OCR to extract data from images and automatically generate structured Excel sheets and charts.
 * **Metro Dash (3D Web Game):** A playable, endless runner web game built with Three.js featuring lane-switching mechanics, obstacles, and a virtual shop interface.
